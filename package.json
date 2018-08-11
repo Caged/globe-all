@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "name": "globe-all",
+  "author": "Justin Palmer",
+  "main": "index.js",
+  "scripts": {
+    "start": "shader-reload-cli --host 127.0.0.1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "*",
+    "eslint-plugin-github": "*",
+    "resl": "*",
+    "shader-reload": "*",
+    "shader-reload-cli": "*",
+    "flow-bin": "*"
+  }
+}
