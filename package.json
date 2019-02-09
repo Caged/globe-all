@@ -4,7 +4,7 @@
   "author": "Justin Palmer",
   "main": "index.js",
   "scripts": {
-    "start": "shader-reload-cli --host 127.0.0.1"
+    "start": "shader-reload-cli --host 127.0.0.1 --css index.css"
   },
   "dependencies": {},
   "devDependencies": {
